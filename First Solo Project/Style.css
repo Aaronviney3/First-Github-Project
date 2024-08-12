@@ -1,0 +1,39 @@
+.home {
+  margin: auto;
+  width: auto;
+  height: 30;
+  border: 15px solid blue;
+  text-align: center;
+  background-color: blue;
+  color: red;
+}
+
+.threat {
+  margin: auto;
+  width: auto;
+  color: red;
+  border: 20px solid red;
+  text-align: center;
+}
+.text1 {
+  text-align: center;
+}
+.footer {
+  text-align: center;
+}
+.contact {
+  color: blue;
+  font-size: 30px;
+}
+.info {
+  border: 1px solid blue;
+  color: red;
+  font-size: 30px;
+}
+.aboutme {
+  text-align: center;
+  color: red;
+}
+.links1{
+  font-size: 30px;
+}
